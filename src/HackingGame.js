@@ -145,7 +145,7 @@ export default function HackingGame() {
 
       {/* Gelöste Wörter anzeigen */}
       <div style={{ marginTop: "20px", textAlign: "center", fontFamily: "monospace", fontSize: "18px", color: "black", padding:"50px" }}>
-        <p>🔓 Fortchritt:</p>
+        <p>🔓 Fortschritt:</p>
         <div style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
           {solvedWords.map((word, index) => (
             <span key={index} style={{ fontWeight: "bold" }}>
