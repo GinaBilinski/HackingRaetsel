@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GinaBilinski/HackingRaetsel/static/css/main.e6c13ad2.css",
+    "main.js": "/GinaBilinski/HackingRaetsel/static/js/main.1c3569c0.js",
+    "static/js/488.e7a77916.chunk.js": "/GinaBilinski/HackingRaetsel/static/js/488.e7a77916.chunk.js",
+    "index.html": "/GinaBilinski/HackingRaetsel/index.html",
+    "main.e6c13ad2.css.map": "/GinaBilinski/HackingRaetsel/static/css/main.e6c13ad2.css.map",
+    "main.1c3569c0.js.map": "/GinaBilinski/HackingRaetsel/static/js/main.1c3569c0.js.map",
+    "488.e7a77916.chunk.js.map": "/GinaBilinski/HackingRaetsel/static/js/488.e7a77916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c3569c0.js"
+  ]
+}
